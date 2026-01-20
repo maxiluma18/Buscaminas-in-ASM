@@ -4,7 +4,7 @@
 Un juego de Buscaminas clásico desarrollado íntegramente en lenguaje ensamblador, diseñado para ejecutarse en entornos **Linux** a través de la consola. Este proyecto demuestra habilidades de programación de bajo nivel, gestión de memoria y lógica algorítmica pura.
 
 ### 🖥️ Vista del Proyecto
-![Captura del Juego](./buscamins.png)
+![Captura del Juego](./buscaminas.png)
 *Interfaz del Buscaminas ejecutándose en consola remota.*
 
 ### 🛠️ Stack Tecnológico
